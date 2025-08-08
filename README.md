@@ -1,2 +1,2 @@
-# Password_Generator
-Django Password Generator – A secure web application built with Django to create strong, random passwords. Users can customize length and character types, ensuring enhanced protection against hacking. Features an intuitive interface and fast, reliable generation.
+# Python-Projects
+Developed Python-based applications to solve real-world problems, applying core concepts like data structures, file handling, object-oriented programming, and third-party libraries. Projects focused on logic building, automation, and clean code practices.
