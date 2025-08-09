@@ -1,3 +1,3 @@
 Django
 gunicorn
-... (other dependencies like djangorestframework, etc.)
+djangorestframework
